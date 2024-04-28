@@ -1,115 +1,145 @@
-body{
-    padding-left: 254px;
-    padding-right: 154px;  
-}
 #homepage{
-    padding-left: 2%;
-    padding-right: 2%;
-    border: 824px;
-    width: 993px;
-    height: 996px;
-    border:solid #8c1e7d;
-    background-color: #c63fb4;
+    border: 4px;
+    text-align: center;
+    border:solid #c199bc;
+    background-color: #ec95e1;
     color: aliceblue;
+    height: 816px;
+    width: 1820px;
+   padding-top: 73px;
+   font-size: xx-large;
+}
+#logInbutton{
+    width: 23%;
+    margin-left: 28%;
+}
+#image{
+    display: flex;
+    margin-left: 88px;
 }
 #goals{
-    padding-left: 1%;
-    padding-right: 6%;
-    border: 324px;
-    width: 493px;
-    border:solid #d411ba;  
-    background-color: #ce61bf;
+    border: 24px;
+    border:solid #d411ba;
+    background-color: #ec95e1;
     color: aliceblue;
+    height: 856px;
+    width: 100%;
+   padding-top: 73px;
+   font-size: xx-large;
+}
+#goal{
+    margin-left: 23%;
 }
 
 #achievement{
-    padding-left: 2%;
-    padding-right: 2%;
-    border: 804px;
-    width: 1203px;
+    border: 24px;
     border:solid #d411ba;
-    background-color: #ce61bf;
+    background-color: #ec95e1;
     color: aliceblue;
     height: 796px;
-    font-size: x-large;
+    width: 100%;
+   padding-top: 73px;
+   font-size: x-large;
+}
+#longoss{
+    width: 10%;
+    height: 45px;
 }
 #plans{
     font-size: xx-large;
+    margin-left: 23px;
     text-align: center;
 }
 #signup{
-    padding-left: 2%;
-    padding-right: 2%;
+
+    padding-left: 30%;
+    padding-right: 26%;
     border: 424px;
-    width: 749px;
+    padding-top: 45px;
+    width: 39%;
+    height: 767px;
+    font-size: large;
     border:solid #d411ba;
-    background-color: #ce61bf;
+    background-color: #ec95e1;
     color: aliceblue;
 }
+
 #login{
-    padding-left: 4%;
-    padding-right: 4%;
-    border: 424px;
-    width: 893px;
-    font-size: x-large;
-    text-align: center;
-    height: 700px;
+    padding-right: 2px;
+    border: 24px;
     border:solid #d411ba;
-    background-color: #ce61bf;
+    background-color: #ec95e1;
     color: aliceblue;
+    height: 796px;
+    width: 95%;
+    text-align: center;
+    padding-top: 73px;
+    padding-left: 63px;
+    font-size: xx-large;
 }
 #input{
     border-radius: 23px;
-    width: 63%;
-    height: 34px;
+    width: 143%;
+    height: 54px;
     text-align: center;
 }
 #Website{
     font-size: xx-large;
     font-weight: bolder;
 }
-#Navbarss{
+#navba{
     display: flex;
-    gap: 3%;
+    gap: 5%;
     font-size: x-large;
+    margin-left: 20%;
 }
 #profiles{
-    background-color: rgb(245, 7, 245);
+    background-color: #ec95e1;
     color: rgb(19, 18, 17);
-    width: 990px;
-    height: 402%;
-    font-size: x-large;
+    width: 100%;
+    height: 840px;
+    padding-top: 68px;
+    padding-bottom: 10px;
+    font-size: large;
     border:solid #d411ba;
     text-align: center;
 }
-#log{
-    background-color: rgb(245, 7, 245);
-}
-#Advise{
+#mentorDetails{
     display: flex;
-    gap: 23%;
-    font-weight: bold;
-    font-size: x-large;
+    gap: 18%;
+    margin-right: 23px;
+    margin-left: 294px;
+}
+#log{
+    background-color: #ec95e1;
 }
 #Welcome{
-    font-size: x-large;
+    padding-right: 73px;
+    text-align: center;
 }
-#Inspire{
+#profile{
+    width: 143%;
+    height: 353px;
+    border-radius: 26%;
+}
+#image{
     display: flex;
-    gap: 27%;
-    font-weight: bold;
-    font-size: x-large;
+    gap: 12%;
+}
+#person{
+    width: 795px;
+    height: 503px;
 }
 #Signupbuttons{
     display: flex;
-    border-radius: 204px;
+    border-radius: 204%;
     width: 200px;
     height: 39px;
 }
 #Signupbuttonn{
     color: white;
     font-size: larger;
-    background-color: blueviolet;
+    background-color: #ec95e1;
     border-radius: 260px;
     width: 100px;
     height: 39px;
@@ -117,43 +147,47 @@ body{
 #Navbar{
     display: flex;
     gap: 5%;
-    font-size:large;
+    font-size:xx-large;
+    margin-left: 23px;
+}
+#toDoList{
+    margin-left: 233px; 
 }
 #Logo{
 display: flex;
-gap: 7%;
+gap: 5%;
+font-size: xx-large;
+margin-left: 28px;
+
 }
-#Navbars{
-    font-size: x-large;
+#navba{
+    font-size: xx-large;
+    margin-left: 23px;
 }
 #Interest{
 	margin:10px;
 	border:solid #d411ba;
-    width: 970px;
-    height: 3%;
+    width: 70%;
+    height: 40%;
     text-align: center;
+    margin-left: 238px;
+    font-size: xx-large;
 }
 #Navbarr{
     display: flex;
-    gap: 10%;
+    gap: 7%;
     font-size: x-large;
+    margin-left: 28px;
 }
-#mentor{
-    width: 60%;
-    height: 3%;
-    margin-left: 22%;
-    font-size: large;
-    text-align: center;
-    border-radius: 32px;
-}
+
 #longo{
-    width: 170px;
-    height: 120px;  
+    width: 7%;
+    height: 3%;  
 }
 #logo{
     width: 24px;
     height: 12px;
-    background-color: aliceblue;
+    background-color: #ec95e1;
 }
 
 #button{
@@ -161,35 +195,24 @@ gap: 7%;
     border-radius: 23px;
   
 }
-#goals{
-    font-size: xx-large;
-    background-color: #ce61bf;
-    width: 470px;
-    padding-left: 33%;
-    padding-right: 43%;
-}
 #LogInSignUpButton{
     font-size: larger;
 
 }
-#profile{
-    width:273px;
-    height:539px;  
-}
 #checkbox{
    
-    height: 34px;
-    width: 274px;
+    height: 44px;
+    width: 394px;
 }
 #to-do-list{
-    padding-right: 2%;
     border: 24px;
     border:solid #d411ba;
-    background-color: #ce61bf;
+    background-color: #ec95e1;
     color: aliceblue;
-    height: 896px;
-    width: 734px;
-    font-size: x-large;
+    height: 796px;
+    width: 100%;
+   padding-top: 73px;
+   font-size: x-large;
 }
 #label{
     margin-left: -10%;
@@ -209,28 +232,46 @@ gap: 7%;
         width: 299px;
         font-size: x-large;
         text-align: center;
-        height: 700px;
+        height: 670px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
+    #logInbutton{
+        width: 143px;
+    }
+    #person{
+        width: 89%;
+        height: 114%;
+    }
     #profiles{
-        background-color: rgb(245, 7, 245);
+        background-color: #ec95e1;
         color: rgb(19, 18, 17);
         padding: 0%;
-        padding-left: 4%;
-        padding-right: 4%;
         border: 424px;
-        width: 339px;
-        height: 190%;
+        width: 99%;
+        height: 18%;
         border:solid #d411ba;
         font-size: large;
+    }
+    #Signupbuttons{
+      margin-left: 23px;
+      display: block;
+      flex-wrap: wrap;
+      flex-direction: column;
+    }
+    #signupinfor{
+   
+    }
+    #profile{
+        width: 53%;
+        height: 79%;
     }
     #Interest{
         margin:10px;
         border:solid #d411ba;
-        width: 300px;
-        height: 330px;
+        width: 280px;
+        height: 50%;
     }
     #Logo{
         font-size: large;
@@ -238,16 +279,24 @@ gap: 7%;
         width: 23px;
     }
     #homepage{
-        padding-left: 5%;
-        padding-right: 5%;
-        border: 424px;
+        border: 422px;
         padding: 0%;
         font-size: small;
-        width: 349px;
-        height: 1330px;
+        width: 100%;
+        height: 10%;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
+    }
+    #mentorDetails{
+        margin-left: 23px;
+        display: block;
+    }
+    #longoss{
+        width: 43px;
+    }
+    #welcome{
+        font-size: medium;
     }
     #logos{
         width:300px;
@@ -272,15 +321,22 @@ gap: 7%;
         border: 524px;
         width: 300px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
-        height: 796px;
+        height: 840px;
         font-size: large;
+    }
+    #toDoList{
+        margin-left: 22px;
     }
     #checkbox{
         height: 24px;
         width: 234px;
         margin-left: -34%;
+    }
+    #plans{
+        width: 59px;
+        font-size: large;
     }
     #label{
         margin-left: -32%;
@@ -292,19 +348,30 @@ gap: 7%;
         font-size:small;
     }
     #BornACrime{
-        background-color: #d411ba;
+        background-color: #ec95e1;
         color: azure;
         border-radius: 3%;
         font-size: x-large;
+    }
+    #input{
+        width: 83%;
     }
     #goals{
         padding-left: 1%;
         padding-right: 6%;
         border: 124px;
         width: 310px;
+        height: 510px;
+        font-size: large;
         border:solid #d411ba;  
-        background-color: #bb24a7;
+        background-color: #ec95e1;
         color: aliceblue;
+    }
+    #navba{
+     display: inline-flex;
+     gap: 12%;
+     font-size: small;
+     width: 103px;
     }
     #Navbarss{
         display: block;
@@ -312,24 +379,22 @@ gap: 7%;
         color: antiquewhite;
     }
     #achievement{
-        padding-left: 3%;
-        padding-right: 14%;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
-        height: 666px;
-        font-size: x-large;
+        height: 670px;
+        text-align: start;
+        width: 300px;
+        font-size: small;
+    }
+    #longo{
+    width: 43px;
     }
     #Navbarr{
         display: block;
         gap: 10%;
         font-size: large;
         width: 3%;
-    }
-    #achievement{
-        border: 334px;
-        width: 330px; 
-        font-size: x-large; 
     }
 
 }
@@ -341,7 +406,7 @@ gap: 7%;
    }
   
    #profiles{
-    background-color: rgb(245, 7, 245);
+    background-color: #ec95e1;
     color: rgb(19, 18, 17);
     padding: 0%;
     padding-left: 4%;
@@ -367,7 +432,7 @@ gap: 7%;
     font-size: small;
     height: 1330px;
     border:solid #d411ba;
-    background-color: #ce61bf;
+    background-color: #ec95e1;
     color: aliceblue;
 }
     #logos{
@@ -382,7 +447,7 @@ gap: 7%;
         text-align: center;
         height: 400px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
     #signup{
@@ -391,7 +456,7 @@ gap: 7%;
         border: 404px;
         width: 149px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
     #Signupbuttons{
@@ -407,7 +472,7 @@ gap: 7%;
         border: 424px;
         width: 300px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 796px;
         font-size: large;
@@ -426,7 +491,7 @@ gap: 7%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 596px;
         font-size: xx-large;
@@ -442,7 +507,7 @@ gap: 7%;
         border: 124px;
         width: 310px;
         border:solid #d411ba;  
-        background-color: #bb24a7;
+        background-color: #ec95e1;
         color: aliceblue;
     }
 }
@@ -453,7 +518,7 @@ gap: 7%;
         margin-left: 4%;
     }
     #profiles{
-        background-color: rgb(245, 7, 245);
+        background-color: #ec95e1;
         color: rgb(19, 18, 17);
     width: 300px;
     height: 1120px;
@@ -477,7 +542,7 @@ gap: 7%;
         font-size: small;
         height: 1330px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
         
@@ -487,7 +552,7 @@ gap: 7%;
         border: 404px;
         width: 149px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
     #Signupbuttons{
@@ -503,7 +568,7 @@ gap: 7%;
         border: 424px;
         width: 300px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 796px;
         font-size: large;
@@ -522,7 +587,7 @@ gap: 7%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 596px;
         font-size: xx-large;
@@ -538,7 +603,7 @@ gap: 7%;
         border: 124px;
         width: 310px;
         border:solid #d411ba;  
-        background-color: #bb24a7;
+        background-color: #ec95e1;
         color: aliceblue;
     }
 }
@@ -549,7 +614,7 @@ gap: 7%;
      }
 
      #profiles{
-        background-color: rgb(245, 7, 245);
+        background-color: #ec95e1;
         color: rgb(19, 18, 17);
     width: 300px;
     height: 1120px;
@@ -573,7 +638,7 @@ gap: 7%;
         width: 349px;
         height: 1330px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
     #Signupbuttons{
@@ -588,7 +653,7 @@ gap: 7%;
         border: 404px;
         width: 149px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
     #to-do-list{
@@ -598,7 +663,7 @@ gap: 7%;
         border: 424px;
         width: 300px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 796px;
         font-size: large;
@@ -617,7 +682,7 @@ gap: 7%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
         height: 596px;
         font-size: xx-large;
@@ -633,7 +698,7 @@ gap: 7%;
         border: 124px;
         width: 310px;
         border:solid #d411ba;  
-        background-color: #bb24a7;
+        background-color: #ec95e1;
         color: aliceblue;
     }
 }
@@ -644,7 +709,7 @@ gap: 7%;
         height: 450px;
        }
        #profiles{
-        background-color: rgb(245, 7, 245);
+        background-color: #ec95e1;
         color: rgb(19, 18, 17);
     width: 300px;
     height: 1120px;
@@ -668,7 +733,7 @@ gap: 7%;
         width: 349px;
         height: 1330px;
         border:solid #d411ba;
-        background-color: #ce61bf;
+        background-color: #ec95e1;
         color: aliceblue;
     }
        #Signupbuttons{
@@ -681,7 +746,7 @@ gap: 7%;
             font-size:x-large;
             width: 853px;
             border:solid #d411ba;
-            background-color: #ce61bf;
+            background-color: #ec95e1;
             color: aliceblue;
         }
         #logos{
@@ -696,7 +761,7 @@ gap: 7%;
             text-align: center;
             height: 400px;
             border:solid #d411ba;
-            background-color: #ce61bf;
+            background-color: #ec95e1;
             color: aliceblue;
         }
         #to-do-list{
@@ -706,7 +771,7 @@ gap: 7%;
             border: 424px;
             width: 300px;
             border:solid #d411ba;
-            background-color: #ce61bf;
+            background-color: #ec95e1;
             color: aliceblue;
             height: 796px;
             font-size: large;
@@ -725,7 +790,7 @@ gap: 7%;
             border: 424px;
             width: 340px;
             border:solid #d411ba;
-            background-color: #ce61bf;
+            background-color: #ec95e1;
             color: aliceblue;
             height: 596px;
         font-size: xx-large;
@@ -741,7 +806,7 @@ gap: 7%;
             border: 124px;
             width: 310px;
             border:solid #d411ba;  
-            background-color: #bb24a7;
+            background-color: #ec95e1;
             color: aliceblue;
         }
 } 
