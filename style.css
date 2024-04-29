@@ -49,6 +49,7 @@
     font-size: xx-large;
     margin-left: 23px;
     text-align: center;
+    margin-top: 63px;
 }
 #signup{
 
@@ -195,6 +196,10 @@ margin-left: 28px;
     border-radius: 23px;
   
 }
+#plans{
+    margin-left: 23px;
+    gap: 23%;
+}
 #LogInSignUpButton{
     font-size: larger;
 
@@ -260,8 +265,10 @@ margin-left: 28px;
       flex-wrap: wrap;
       flex-direction: column;
     }
-    #signupinfor{
-   
+    #logInbn{
+   margin-right: 233px;
+   text-align: start;
+
     }
     #profile{
         width: 53%;
