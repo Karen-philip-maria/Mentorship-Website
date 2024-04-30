@@ -9,6 +9,24 @@
    padding-top: 73px;
    font-size: xx-large;
 }
+#trevor{
+    width: 50%;
+    height: 123%;
+}
+#summary{
+    padding-top: 50px;
+    font-size:large;
+    background-color: #ec95e1;
+    color: black;
+    height: 350px;
+}
+#BornaCrime{
+    border:solid #c199bc;
+    background-color: #ec95e1;
+    color: black;
+    padding-left: 250px;
+    padding-right: 250px;
+}
 #logInbutton{
     width: 23%;
     margin-left: 28%;
@@ -72,7 +90,7 @@
     background-color: #ec95e1;
     color: aliceblue;
     height: 796px;
-    width: 95%;
+    width: 96%;
     text-align: center;
     padding-top: 73px;
     padding-left: 63px;
@@ -197,7 +215,7 @@ margin-left: 28px;
   
 }
 #plans{
-    margin-left: 23px;
+    margin-left: 20px;
     gap: 23%;
 }
 #LogInSignUpButton{
@@ -234,13 +252,17 @@ margin-left: 28px;
         padding-left: 4%;
         padding-right: 4%;
         border: 424px;
-        width: 299px;
-        font-size: x-large;
+        width: 303px;
+        font-size: small;
         text-align: center;
-        height: 670px;
+        height: 504px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
+    }
+    #logInbn{
+        width: 20px;
+        margin-top: 34px;
     }
     #logInbutton{
         width: 143px;
@@ -284,6 +306,7 @@ margin-left: 28px;
         font-size: large;
         display:block;
         width: 23px;
+        gap: 7%;
     }
     #homepage{
         border: 422px;
@@ -389,10 +412,10 @@ margin-left: 28px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
-        height: 670px;
+        height: 720px;
         text-align: start;
-        width: 300px;
-        font-size: small;
+        width: 330px;
+        font-size: x-large;
     }
     #longo{
     width: 43px;
@@ -460,8 +483,9 @@ margin-left: 28px;
     #signup{
         padding-left: 0%;
         padding-right: 2%;
-        border: 404px;
+        border: 400px;
         width: 149px;
+        height: 10%;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
