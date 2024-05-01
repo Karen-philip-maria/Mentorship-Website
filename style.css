@@ -197,12 +197,15 @@
 }
 #Navbar{
     display: flex;
-    gap: 5%;
+    gap: 2%;
     font-size:xx-large;
     margin-left: 23px;
 }
 #toDoList{
-    margin-left: 233px; 
+    margin-left: 63px; 
+}
+#list{
+    margin-left: 147px;
 }
 #Logo{
 display: flex;
