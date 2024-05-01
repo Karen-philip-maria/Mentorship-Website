@@ -1,0 +1,82 @@
+#trevor{
+    width: 50%;
+    height: 123%;
+}
+#summary{
+    padding-top: 50px;
+    font-size:large;
+    background-color: #ec95e1;
+    color: black;
+    height: 350px;
+}
+#BornaCrime{
+    border:solid #c199bc;
+    background-color: #ec95e1;
+    color: black;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+@media only screen and (max-width: 480px){
+    body{
+        background-color: #ec95e1 ;
+       border: none;
+              
+    }
+    #BornaCrime{
+        /* border:solid #c199bc; */
+        background-color: #ec95e1;
+        color: black;
+        padding-left: 250px;
+        padding-right: 250px;
+        border: none;
+    }
+
+}
+@media only screen and (min-width: 481px) and (max-width: 564px){
+    body{
+    background-color: #ec95e1 ;
+     border: none;
+  
+
+    }
+    #BornaCrime{
+        border:solid #c199bc;
+        background-color: #ec95e1;
+        color: black;
+        padding-left: 250px;
+        padding-right: 250px;
+        border: none;
+    }
+}
+@media only screen and (min-width:412) and (max-width:914){
+    
+    body{
+        border: none;
+        background-color: #ec95e1;
+        
+    }
+    #BornaCrime{
+        border:solid #c199bc;
+        background-color: #ec95e1;
+        color: black;
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+}
+@media only screen and (min-width: 565px) and (max-width: 764px){
+    body{
+        border: none;
+        background-color: #ec95e1 ;
+      
+    }
+    #BornaCrime{
+        border:solid #c199bc;
+        background-color: #ec95e1;
+        color: black;
+        /* padding-left: 250px;
+        padding-right: 250px; */
+        margin-left: 273px;
+    }
+}
+
