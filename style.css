@@ -27,13 +27,14 @@
     padding-left: 250px;
     padding-right: 250px;
 }
+
 #logInbutton{
     width: 23%;
     margin-left: 28%;
 }
 #image{
     display: flex;
-    margin-left: 88px;
+    margin-left: 453px;
 }
 #goals{
     border: 24px;
@@ -65,9 +66,10 @@
 }
 #plans{
     font-size: xx-large;
-    margin-left: 23px;
-    text-align: center;
     margin-top: 63px;
+}
+#detail{
+    margin-left: 153px;
 }
 #signup{
 
@@ -75,9 +77,9 @@
     padding-right: 26%;
     border: 424px;
     padding-top: 45px;
-    width: 39%;
-    height: 767px;
-    font-size: large;
+    width: 43%;
+    height: 897px;
+    font-size: x-large;
     border:solid #d411ba;
     background-color: #ec95e1;
     color: aliceblue;
@@ -149,11 +151,38 @@
     width: 795px;
     height: 503px;
 }
+#crime{
+    width: 234px;
+    height: 44px;
+    border: solid;
+    border-color:  #ec95e1;
+    color: black;
+    font-size: large;
+    border-radius: 23px;
+    }
 #Signupbuttons{
     display: flex;
     border-radius: 204%;
     width: 200px;
     height: 39px;
+    gap: 12%;
+}
+#inputs{
+    border-radius: 32px;
+    text-align: center;
+    width: 470px;
+    height: 45px;
+}
+#inputlogin{
+    border-radius: 32px;
+    text-align: center;
+    width: 394px;   
+}
+#inputss{
+    border-radius: 32px;
+    text-align: center; 
+    width: 294px;
+    height: 45px;
 }
 #Signupbuttonn{
     color: white;
@@ -252,10 +281,10 @@ margin-left: 28px;
         padding-left: 4%;
         padding-right: 4%;
         border: 424px;
-        width: 303px;
-        font-size: small;
+        width: 353px;
+        font-size: x-large;
         text-align: center;
-        height: 504px;
+        height: 800px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
@@ -268,8 +297,8 @@ margin-left: 28px;
         width: 143px;
     }
     #person{
-        width: 89%;
-        height: 114%;
+        width: 100%;
+        height: 104%;
     }
     #profiles{
         background-color: #ec95e1;
@@ -302,6 +331,9 @@ margin-left: 28px;
         width: 280px;
         height: 50%;
     }
+    #inpus{
+        width: 34px;
+    }
     #Logo{
         font-size: large;
         display:block;
@@ -309,11 +341,12 @@ margin-left: 28px;
         gap: 7%;
     }
     #homepage{
-        border: 422px;
-        padding: 0%;
-        font-size: small;
-        width: 100%;
-        height: 10%;
+        border: 424px;
+        width: 349px;
+        border: 524px;
+        font-size:medium;
+        width: 99%;
+        height: 950%;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
@@ -326,7 +359,7 @@ margin-left: 28px;
         width: 43px;
     }
     #welcome{
-        font-size: medium;
+        font-size: large;
     }
     #logos{
         width:300px;
@@ -366,7 +399,7 @@ margin-left: 28px;
     }
     #plans{
         width: 59px;
-        font-size: large;
+        margin-left: 45px;
     }
     #label{
         margin-left: -32%;
@@ -391,7 +424,7 @@ margin-left: 28px;
         padding-right: 6%;
         border: 124px;
         width: 310px;
-        height: 510px;
+        height: 872px;
         font-size: large;
         border:solid #d411ba;  
         background-color: #ec95e1;
@@ -412,10 +445,14 @@ margin-left: 28px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
-        height: 720px;
+        height: 690px;
         text-align: start;
-        width: 330px;
+        width: 300px;
         font-size: x-large;
+    }
+    #detail{
+        margin-left: 3px;
+        font-size: small;
     }
     #longo{
     width: 43px;
@@ -453,14 +490,12 @@ margin-left: 28px;
 }
   
    #homepage{
-    padding-left: 4%;
-    padding-right: 4%;
     border: 424px;
     width: 349px;
     border: 524px;
-    padding: 0%;
-    font-size: small;
-    height: 1330px;
+    font-size: large;
+    width: 100%;
+    height: 950%;
     border:solid #d411ba;
     background-color: #ec95e1;
     color: aliceblue;
@@ -475,7 +510,7 @@ margin-left: 28px;
         border: 224px;
         width:23px;
         text-align: center;
-        height: 400px;
+        height: 800px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
@@ -517,26 +552,21 @@ margin-left: 28px;
         margin-left: -32%;
     }
     #achievement{
-        padding-left: 2%;
-        padding-right: 2%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
-        height: 596px;
+        height: 900px;
         font-size: xx-large;
-    }
-    #achievement{
-        border: 334px;
-        width: 330px; 
-        font-size: x-large; 
     }
     #goals{
         padding-left: 1%;
         padding-right: 6%;
         border: 124px;
-        width: 310px;
+        width: 360px;
+         height: 572px;
+        height: 73%;
         border:solid #d411ba;  
         background-color: #ec95e1;
         color: aliceblue;
@@ -613,14 +643,12 @@ margin-left: 28px;
         margin-left: -32%;
     }
     #achievement{
-        padding-left: 2%;
-        padding-right: 2%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
-        height: 596px;
+        height: 996px;
         font-size: xx-large;
     }
     #achievement{
@@ -629,11 +657,21 @@ margin-left: 28px;
         font-size: x-large; 
     }
     #goals{
-        padding-left: 1%;
-        padding-right: 6%;
         border: 124px;
-        width: 310px;
+        width: 890px;
+        height: 772px;
         border:solid #d411ba;  
+        background-color: #ec95e1;
+        color: aliceblue;
+    }
+    #login{
+
+        border: 424px;
+        width: 353px;
+        font-size: x-large;
+        text-align: center;
+        height: 70%;
+        border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
     }
@@ -708,26 +746,20 @@ margin-left: 28px;
         margin-left: -32%;
     }
     #achievement{
-        padding-left: 2%;
-        padding-right: 2%;
         border: 424px;
         width: 340px;
         border:solid #d411ba;
         background-color: #ec95e1;
         color: aliceblue;
-        height: 596px;
+        height: 896px;
         font-size: xx-large;
-    }
-    #achievement{
-        border: 334px;
-        width: 330px; 
-        font-size: x-large; 
     }
     #goals{
         padding-left: 1%;
         padding-right: 6%;
         border: 124px;
         width: 310px;
+        height: 700px;
         border:solid #d411ba;  
         background-color: #ec95e1;
         color: aliceblue;
@@ -816,26 +848,18 @@ margin-left: 28px;
             margin-left: -32%;
         }
         #achievement{
-            padding-left: 2%;
-            padding-right: 2%;
             border: 424px;
             width: 340px;
             border:solid #d411ba;
             background-color: #ec95e1;
             color: aliceblue;
-            height: 596px;
-        font-size: xx-large;
-        }
-        #achievement{
-            border: 334px;
-            width: 330px; 
-            font-size: x-large; 
+            height: 896px;
+            font-size: xx-large;
         }
         #goals{
-            padding-left: 1%;
-            padding-right: 6%;
             border: 124px;
-            width: 310px;
+            width: 380px;
+            height: 772px;
             border:solid #d411ba;  
             background-color: #ec95e1;
             color: aliceblue;
