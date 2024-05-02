@@ -12,10 +12,16 @@
 #trevor{
     width: 300%;
     height: 50%;
+    margin-top: 60px;
     padding-right: 20%;
 }
+#summarytitle{
+    text-align: center;
+   font-size:large;
+   row-gap: 3%;
+}
 #summary{
-    padding-top: 140px;
+    padding-top: 100px;
     font-size:large;
     background-color: #ec95e1;
     color: black;
